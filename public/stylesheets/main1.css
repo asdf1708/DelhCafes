@@ -1,0 +1,52 @@
+
+.thumbnail img{
+    width:100%; 
+}
+.thumbnail{
+    padding: 0;
+}
+.thumbnail .caption-full{
+    padding: 9px;
+}
+#delete-form{
+    display: inline;
+}
+.jumbotron{
+    background: url('https://ak4.picdn.net/shutterstock/videos/1747714/thumb/1.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    
+}
+.jumbotron div {
+    margin-top: 15%;
+    margin-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+
+.navbar{
+    margin-bottom: 0;
+}
+.navbar-brand{
+    font-size: 2em;
+    color:#5d332a;
+}
+.navbar-default {
+    margin-bottom: 0;
+    margin-top: 0;
+    border-radius: 0;
+    padding: 15px;
+}
+.navbar-right li{
+    font-size: 1em;
+}
+.extra{
+    margin-top: 5px;
+}
+.big{
+    background-color: #5d332a;
+    margin-top: 0;
+}
